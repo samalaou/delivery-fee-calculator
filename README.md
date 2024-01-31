@@ -1,3 +1,21 @@
+
+***REMOVED***
+
+***REMOVED***
+
+***REMOVED***
+
+***REMOVED***
+
+### `npm run dev`
+
+Runs the app on [http://localhost:5173](http://localhost:3000) to view it in the browser.
+
+### `npm run test`
+
+Launches the test runner
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

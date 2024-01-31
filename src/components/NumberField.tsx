@@ -16,6 +16,8 @@ interface NumberFieldProps {
 }
 
 function NumberField(props: NumberFieldProps): JSX.Element {
+  // Used react-number-format with TextField to solve type="number" issues
+  // https://mui.com/material-ui/react-text-field/#type-quot-number-quot
   return (
     <Grid item xs={12} style={{ margin: "20px 10px" }}>
       <NumericFormat
