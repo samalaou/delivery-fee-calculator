@@ -10,6 +10,9 @@ import CalculatorResult from "./components/CalculatorResult";
 import { calculateDeliveryFee } from "./utils/calculations";
 
 const theme = createTheme({
+  typography: {
+    fontFamily: "Omnes, sans-serif",
+  },
   palette: {
     primary: {
       main: "#f2f3f5", // grey
